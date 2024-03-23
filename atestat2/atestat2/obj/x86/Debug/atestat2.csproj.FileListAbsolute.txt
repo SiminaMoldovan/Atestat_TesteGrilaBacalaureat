@@ -1,0 +1,10 @@
+C:\Users\Simina\Desktop\Atestat\atestat2\atestat2\bin\Debug\db.sdf
+C:\Users\Simina\Desktop\Atestat\atestat2\atestat2\bin\Debug\atestat2.exe.config
+C:\Users\Simina\Desktop\Atestat\atestat2\atestat2\bin\Debug\atestat2.exe
+C:\Users\Simina\Desktop\Atestat\atestat2\atestat2\bin\Debug\atestat2.pdb
+C:\Users\Simina\Desktop\Atestat\atestat2\atestat2\obj\x86\Debug\atestat2.Form1.resources
+C:\Users\Simina\Desktop\Atestat\atestat2\atestat2\obj\x86\Debug\atestat2.Properties.Resources.resources
+C:\Users\Simina\Desktop\Atestat\atestat2\atestat2\obj\x86\Debug\atestat2.csproj.GenerateResource.Cache
+C:\Users\Simina\Desktop\Atestat\atestat2\atestat2\obj\x86\Debug\atestat2.exe
+C:\Users\Simina\Desktop\Atestat\atestat2\atestat2\obj\x86\Debug\atestat2.pdb
+C:\Users\Simina\Desktop\Atestat\atestat2\atestat2\obj\x86\Debug\atestat2.csprojResolveAssemblyReference.cache
